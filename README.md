@@ -3,7 +3,7 @@
 I'm Davide from Italy and I'm a research fellow at the University of Verona. I'mm currently working on cloth simulation and their segmentation using deep learning.
 
 ## Skills and Experience
-* ©: c++
+* 💻: c++
 * 🐍: python
 
 ## Social
