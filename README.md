@@ -2,7 +2,7 @@
 # Davide Garavaso
 Hi, I'm Davide from Italy and I'm a:
 * research fellow at University of Verona;
-* master's student in Computer game development.
+* master's student in Computer game development. <br>
 I'm currently working on cloth simulation using physically and position based techniques and on cloth segmentation using deep learning.
 
 ## Skills and Experience
