@@ -1,6 +1,9 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davide-gith)](https://github.com/anuraghazra/github-readme-stats)-->
 # Davide Garavaso
-I'm Davide from Italy and I'm a research fellow at the University of Verona. I'm currently working on cloth simulation using physically and position based techniques and on cloth segmentation using deep learning.
+Hi, I'm Davide from Italy and I'm a:
+* research fellow at University of Verona;
+* master's student in Computer game development.
+I'm currently working on cloth simulation using physically and position based techniques and on cloth segmentation using deep learning.
 
 ## Skills and Experience
 * 💻: c/c++
