@@ -12,7 +12,7 @@ I'm currently working on cloth simulation using physically and position based te
 
 ## Contacts
 * davide.garavaso@gmail.com
-* davide.garavaso@univr.it
+* davide.garavaso@studenti.univr.it
 
 
 
