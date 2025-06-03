@@ -9,7 +9,7 @@ I'm currently working on cloth simulation using physically and position based te
 
 ## Projects
 * CoinBot:
-  - Code: [Gitlab source](https://gitlab.com/mastergamedev-vr/student-2425/gameengineprogramming/davide_garavaso/-/blob/main/README.md?ref_type=heads](https://gitlab.com/mastergamedev-vr/student-2425/gameengineprogramming/davide_garavaso/-/tree/main?ref_type=heads)
+  - Code: [Gitlab source](https://gitlab.com/mastergamedev-vr/student-2425/gameengineprogramming/davide_garavaso/-/tree/main?ref_type=heads)
   - YouTube: [CoinBot - Unreal Engine 5](https://www.youtube.com/watch?v=a12VaJ6eRtc&t=39s)
 
 ## Social
