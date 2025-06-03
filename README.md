@@ -9,8 +9,8 @@ I'm currently working on cloth simulation using physically and position based te
 
 ## Projects
 * CoinBot:
-  - Code: https://github.com/davide-gith/CoinBot
-  - YouTube: (CoinBot - Unreal Engine 5) [https://www.youtube.com/watch?v=a12VaJ6eRtc&t=39s]
+  - Code: [Gitlab source](https://github.com/davide-gith/CoinBot)
+  - YouTube: [CoinBot - Unreal Engine 5](https://www.youtube.com/watch?v=a12VaJ6eRtc&t=39s)
 
 ## Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/davide-gith)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davide-garavaso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unicode.svg' alt='unicode' height='40'>](https://www.di.univr.it/?ent=persona&id=53840&lang=en)  
