@@ -11,6 +11,10 @@ I'm currently working on cloth simulation using physically and position based te
 * CoinBot:
   - Code: [Gitlab source](https://gitlab.com/mastergamedev-vr/student-2425/gameengineprogramming/davide_garavaso/-/tree/main?ref_type=heads)
   - YouTube: [CoinBot - Unreal Engine 5](https://www.youtube.com/watch?v=a12VaJ6eRtc&t=39s)
+ 
+## Research activities
+* Point cloud segmentation for 3D Clothed Human Layering: 
+  - official: [https://www.sciencedirect.com/science/article/pii/S0097849325002341]
 
 ## Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/davide-gith)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davide-garavaso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unicode.svg' alt='unicode' height='40'>](https://www.di.univr.it/?ent=persona&id=53840&lang=en)  
