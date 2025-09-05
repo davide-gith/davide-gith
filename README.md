@@ -14,7 +14,7 @@ I'm currently working on cloth simulation using physically and position based te
  
 ## Research activities
 * Point cloud segmentation for 3D Clothed Human Layering: 
-  - official: [https://www.sciencedirect.com/science/article/pii/S0097849325002341]
+  - official: (https://www.sciencedirect.com/science/article/pii/S0097849325002341)
 
 ## Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/davide-gith)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davide-garavaso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unicode.svg' alt='unicode' height='40'>](https://www.di.univr.it/?ent=persona&id=53840&lang=en)  
