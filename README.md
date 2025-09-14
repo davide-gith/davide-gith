@@ -14,7 +14,7 @@ I'm currently working on cloth simulation using physically and position based te
  
 ## Research activities
 * [Point cloud segmentation for 3D Clothed Human Layering](https://www.sciencedirect.com/science/article/pii/S0097849325002341)
-* 
+  
 ## Fun
 * Memory game (python, pygame):
   - [Github Code](https://github.com/davide-gith/Memory)
@@ -26,6 +26,7 @@ I'm currently working on cloth simulation using physically and position based te
 
 ## Contacts
 * davide.garavaso@gmail.com
+* davide.garavaso@univr.it
 * davide.garavaso@studenti.univr.it
 
 
