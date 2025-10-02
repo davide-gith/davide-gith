@@ -5,7 +5,7 @@ Development from Verona. I am passionate about physics simulation, programming, 
 games, and I aspire to build my career in the video game industry.
 My research focuses on cloth segmentation using deep learning and the development of a
 cloth simulator in C++ and OpenGL, implementing both physically-based and position-based
-techniques. Alongside research, I am expanding my skills through a master’s degree, where
+techniques. Alongside research, I am expanding my skills through a master’s program, where
 I develop projects in Unreal Engine, Unity, and C++ exploring areas such as physics
 programming, gameplay programming and graphic programming.
 Driven by curiosity and passion, I am motivated by the opportunity to grow professionally,
