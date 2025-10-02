@@ -1,12 +1,22 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davide-gith)](https://github.com/anuraghazra/github-readme-stats)-->
 # Davide Garavaso
-Hi, I'm Davide from Italy and I'm a research fellow and master's student in Computer game development.
-I'm currently working on cloth simulation using physically and position based techniques and on cloth segmentation using deep learning.
+Hi, I’m Davide Garavaso, a research fellow and master’s student in Computer Game
+Development from Verona. I am passionate about physics simulation, programming, and video
+games, and I aspire to build my career in the video game industry.
+My research focuses on cloth segmentation using deep learning and the development of a
+cloth simulator in C++ and OpenGL, implementing both physically-based and position-based
+techniques. Alongside research, I am expanding my skills through a master’s degree, where
+I develop projects in Unreal Engine, Unity, and C++ exploring areas such as physics
+programming, gameplay programming and graphic programming.
+Driven by curiosity and passion, I am motivated by the opportunity to grow professionally,
+learn new technologies, and contribute to new projects in the video game industry.
+For further details on my projects and research, please visit my online [portoflolio](https://davide-gith.github.io/Portfolio/).
 
 ## Skills and Experience
 * 💻: c/c++
 * 🐍: python
 
+<!--
 ## Projects
 * CoinBot, a simple 3D platform in Unreal Engine 5:
   - Code: [Gitlab source](https://gitlab.com/mastergamedev-vr/student-2425/gameengineprogramming/davide_garavaso/-/tree/main?ref_type=heads)
@@ -20,7 +30,7 @@ I'm currently working on cloth simulation using physically and position based te
   - [Github Code](https://github.com/davide-gith/Memory)
 * Simple 3D geometry utility for open3d (python):
   - [Github code](https://github.com/davide-gith/o3d-utility)
-
+-->
 ## Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/davide-gith) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='github' height='40'>]([https://github.com/davide-gith](https://gitlab.com/davide.garavaso)) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davide-garavaso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unicode.svg' alt='unicode' height='40'>](https://www.di.univr.it/?ent=persona&id=53840&lang=en)  
 
