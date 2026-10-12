@@ -1,15 +1,15 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davide-gith)](https://github.com/anuraghazra/github-readme-stats)-->
 # Davide Garavaso
-Hi, I’m Davide Garavaso, a research fellow and master’s student in Computer Game
-Development from Verona. I am passionate about physics simulation, programming, and video
-games, and I aspire to build my career in the video game industry.
-My research focuses on cloth segmentation using deep learning and the development of a
-cloth simulator in C++ and OpenGL, implementing both physically-based and position-based
-techniques. Alongside research, I am expanding my skills through a master’s program, where
-I develop projects in Unreal Engine, Unity, and C++ exploring areas such as physics
-programming, gameplay programming and graphic programming.
-Driven by curiosity and passion, I am motivated by the opportunity to grow professionally,
-learn new technologies, and contribute to new projects in the video game industry.
+Hi, I’m Davide Garavaso, a Gameplay Programmer at Milestone, based in Milan, Italy. Over
+the past year, I’ve contributed to the final patches for MotoGP™26 and I’m currently working
+on MotoGP™27, gaining hands-on experience developing and supporting gameplay features
+for commercial racing games. My background combines professional game development with
+research and academic work. As a research fellow, I worked on cloth segmentation using deep
+learning and developed a cloth simulator in C++ and OpenGL, exploring both physically
+based and position-based techniques. My studies and personal projects have also allowed me
+to explore gameplay, physics, and graphics programming in Unreal Engine, Unity, and C++.
+I’m now looking to bring my experience as a gameplay programmer to new challenges and
+contribute to a team creating ambitious games.
 For further details on my projects and research, please visit my online [portoflolio](https://davide-gith.github.io/Portfolio/).
 
 ## Skills and Experience
