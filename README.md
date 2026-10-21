@@ -1,15 +1,6 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davide-gith)](https://github.com/anuraghazra/github-readme-stats)-->
 # Davide Garavaso
-Hi, I’m Davide Garavaso, a Gameplay Programmer at Milestone, based in Milan, Italy. Over
-the past year, I’ve contributed to the final patches for MotoGP™26 and I’m currently working
-on MotoGP™27, gaining hands-on experience developing and supporting gameplay features
-for commercial racing games. My background combines professional game development with
-research and academic work. As a research fellow, I worked on cloth segmentation using deep
-learning and developed a cloth simulator in C++ and OpenGL, exploring both physically
-based and position-based techniques. My studies and personal projects have also allowed me
-to explore gameplay, physics, and graphics programming in Unreal Engine, Unity, and C++.
-I’m now looking to bring my experience as a gameplay programmer to new challenges and
-contribute to a team creating ambitious games.
+Hi, I’m Davide Garavaso, a C++ programmer developing software since 2022, with experience in professional software development, Computer Vision and real-time physical simulation research. My background combines strong C++ programming skills with the ability to implement algo- rithms, maintain existing code and independently translate technical requirements into working software. As a research fellow at the VIPS Computer Vision Laboratory of the University of Verona where my research led to the publication of "Point Cloud Segmentation for 3D Clothed Human Layering", with me as first author. My main contribution was the development of a synthetic dataset of 3D human meshes, generated with a simulated structured-light scanner to reproduce realistic acquisition noise. I also developed a real-time cloth simulator working on collision handling, skeletal animation and performance optimization. Currently working as a Gameplay Programmer at Milestone, I’m developing and supporting gameplay features for com- mercial racing games, working with existing C++ code within a professional development team.
 For further details on my projects and research, please visit my online [portoflolio](https://davide-gith.github.io/Portfolio/).
 
 ## Skills and Experience
